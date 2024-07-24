@@ -1,0 +1,28 @@
+body {
+  background: url('https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12rem;
+  align-items: center;
+  justify-content: center;
+  align-content: space-between;
+}
+
+h1{
+  color: rgb(255, 255, 255,0.75);
+}
+
+input {
+  margin-bottom: 1.2rem;
+}
+
+.Result {
+  font-size: xx-large;
+  color: rgb(255, 255, 255,.75);
+  margin-top: 1rem;
+}
